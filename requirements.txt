@@ -1,2 +1,4 @@
 django
-crispy_forms
+django-crispy-forms==1.7.0
+pytz==2017.3
+django-widget-tweaks
